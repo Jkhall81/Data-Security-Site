@@ -7,4 +7,21 @@ This is the front-end of a Data Security Business website built with React and T
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/data-security.git
+   git clone https://github.com/Jkhall81/Data-Security-Site.git
+
+2. Navigate to the project directory:
+
+   ```
+   cd Data-Security-Site
+
+3. Install dependencies:
+
+   ```
+   npm install
+
+## Running the App
+
+To run the application locally, execute the following command:
+
+   ```
+   npm run build
